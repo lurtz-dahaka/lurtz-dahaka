@@ -7,7 +7,7 @@ I'm Egor, Data Science enthusiast from :finland: Finland
 
 🎓 Education:
  
- :atom_symbol: National Research Nuclear Univercity 'MEPhI', Moscow, Russia
+ :atom_symbol: National Research Nuclear University 'MEPhI', Moscow, Russia
  - Master's degree: International Scientific and Technological Cooperation in nuclear energy sphere
 
 
@@ -15,7 +15,7 @@ I'm Egor, Data Science enthusiast from :finland: Finland
 
 ### 💡 Core competencies 💡
 - Tools: Python, SQL
-  - Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis
+  - Skills: Data Cleaning and Wrangling, Data Visualization, Data Analysis
 
 
 ### ⚡️ Currently ⚡️
