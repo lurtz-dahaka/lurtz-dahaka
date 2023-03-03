@@ -15,7 +15,8 @@ I'm Egor, Data Science enthusiast from :finland: Finland
 
 ### 💡 Core competencies 💡
 - Tools: Python, SQL
-  - Skills: Data Cleaning and Wrangling, Data Visualization, Data Analysis
+  - Skills: Data Cleaning and Wrangling, Data Visualization, Data Analysis, Machine Learning, Linear Algebra,
+   Statistics, A/B tests
 
 
 ### ⚡️ Currently ⚡️
