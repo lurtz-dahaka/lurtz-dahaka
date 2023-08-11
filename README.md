@@ -22,7 +22,5 @@ I'm Egor, Data Science enthusiast from :finland: Finland
 ### ⚡️ Currently ⚡️
 * :student: Studying Data Science on Skillfactory [course](https://skillfactory.ru/data-scientist-pro)
 
-* :snake: Studying Python on Stepik [course](https://stepik.org/course/58852/promo)
-
 ### 🙌🏻 Contact me
 - [Telegram](https://t.me/egor_krasnikov)
