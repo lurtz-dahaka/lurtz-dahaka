@@ -3,7 +3,7 @@
 I'm Egor, Data Science enthusiast from :finland: Finland
 ### ✨ About me in 30 seconds ✨ 
 * :nerd_face: Nuclear engineer turned data analyst
-* :notebook_with_decorative_cover: Transition to data since 2022
+* :notebook_with_decorative_cover: Transition to data since 2021
 
 🎓 Education:
  
