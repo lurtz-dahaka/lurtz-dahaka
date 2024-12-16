@@ -19,8 +19,5 @@ I'm Egor, Data Science enthusiast from :finland: Finland
    Statistics, A/B tests
 
 
-### ⚡️ Currently ⚡️
-* :student: Studying Data Science on Skillfactory [course](https://skillfactory.ru/data-scientist-pro)
-
 ### 🙌🏻 Contact me
 - [Telegram](https://t.me/egor_krasnikov)
